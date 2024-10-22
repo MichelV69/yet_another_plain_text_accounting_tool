@@ -5,7 +5,7 @@
 ## expected sample use
 
 ```
-yaptat [module] [credit account] [debit account] [amount]
+yaptat [credit account] [debit account] [amount]
 
-> yaptat general utility cash 27.72
+> yaptat utility cash 27.72
 ```
